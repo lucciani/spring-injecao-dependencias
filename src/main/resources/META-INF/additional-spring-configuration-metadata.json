@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "notificador.email.porta-servidor",
+    "type": "java.lang.String",
+    "description": "Porta do servidor de email"
+  },
+  {
+    "name": "notificador.email.host-servidor",
+    "type": "java.lang.String",
+    "description": "Host do servidor de email"
+  }
+]}
